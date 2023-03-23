@@ -1,5 +1,5 @@
 <h1 align="center"> 
-Projeto-03-desafio-01 <br/>Formulário para Eventos</h1>
+Stage03-Projeto01 <br/>Formulário para Eventos</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
